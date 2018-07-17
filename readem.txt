@@ -3,4 +3,9 @@ asdasdasdasdsadasdappend Gpl
 jkjkjjkkkkkkjjjj
 mnmnmnnnnnnnnnmnjk90000000
 i love you
+quick And simple
+<<<<<<< HEAD
 quick & simple
+=======
+quick and simple
+>>>>>>> feature1
